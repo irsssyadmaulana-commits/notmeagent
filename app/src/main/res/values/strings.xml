@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotMe Agent</string>
+    <string name="svc_desc">Membaca layar dan mengetuk/menggeser atas perintah agen AI.</string>
+</resources>
